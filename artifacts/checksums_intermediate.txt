@@ -1,1 +1,1 @@
-03529dda4a81b707a177b7ad672a69660f4dff6618bcd58dfd2719c8ffb04605  /target/wasm32-unknown-unknown/release/wasm.wasm
+28554ad64533e33b38975cd8e8a5f7e438a174aedf2c1cb55128b16b58eaddf1  /target/wasm32-unknown-unknown/release/wasm.wasm
