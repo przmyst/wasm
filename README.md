@@ -10,6 +10,10 @@ Install rustup
 
 ```https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe```
 
+Rust optimizer setup
+
+```https://github.com/CosmWasm/rust-optimizer```
+
 Run in Terminal:
 
 ```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser```
